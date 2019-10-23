@@ -1,2 +1,3 @@
 # hello-world
-some stuff in here
+Hey I'm Chris! I'm a human I think.
+I think dogs should vote.
